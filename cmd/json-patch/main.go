@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	jsonpatch "github.com/evanphx/json-patch"
+	jsonpatch "github.com/evanphx/json-patch/v4"
 	flags "github.com/jessevdk/go-flags"
 )
 
